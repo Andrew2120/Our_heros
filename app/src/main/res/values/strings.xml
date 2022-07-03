@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Our Heroes</string>
+    <string name="general_information">General Information</string>
+    <string name="gender">Gender</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="powerstats">Power Stats</string>
+    <string name="intelligence">Intelligence</string>
+    <string name="strength">Strength</string>
+    <string name="speed" >Speed</string>
+    <string name="durability">Durability</string>
+    <string name="power">Power</string>
+    <string name="combat">Combat</string>
+</resources>
